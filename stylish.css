@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
 
 html, body {
-  font-family: "Ubuntu";
   margin: 0;
   margin-right: 0;
   margin-left: 10px;
@@ -9,11 +8,12 @@ html, body {
   max-width: 100%;
   overflow-x: hidden;
   background-color: #ffffff;
+  font-family: "Ubuntu";
 }
 
 h1 {
   font-size: 30px;
-  font-family: "inherit";
+  /*font-family: "inherit"*/
   color: #098281;
   max-width: 95%;
 
@@ -21,6 +21,6 @@ h1 {
 
 p {
   font-size: 12px;
-  font-family: "inherit";
+  /*font-family: "inherit"*/
   color: black
 }
