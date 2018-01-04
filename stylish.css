@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
 
 html, body {
   margin: 0;
@@ -8,19 +8,19 @@ html, body {
   max-width: 100%;
   overflow-x: hidden;
   background-color: #ffffff;
-  font-family: "Ubuntu";
+  font-family: "Tangerine";
 }
 
 h1 {
   font-size: 30px;
-  font-family: "Ubuntu";
+  font-family: "Tangerine";
   color: #098281;
   max-width: 95%;
 }
 
 h2 {
   font-size: 50px;
-  font-family: "Ubuntu";
+  font-family: "Tangerine";
   font-style: bold;
   color: #098f81;
   max-width: 95%;
@@ -28,6 +28,7 @@ h2 {
 
 p {
   font-size: 12px;
-  font-family: "Ubuntu";
+  font-family: "Tangerine";
   color: black;
+  max-width: 95%;
 }
